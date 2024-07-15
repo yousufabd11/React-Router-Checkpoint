@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.movie-card {
+  width: 200px;
+  margin: 20px;
+  text-align: left;
+}
+
+.movie-card img {
+  width: 100%;
+}
+
+.filter {
+  margin-bottom: 20px;
+}
+
+.add-movie {
+  margin-top: 20px;
+}
